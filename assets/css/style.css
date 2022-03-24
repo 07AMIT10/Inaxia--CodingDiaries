@@ -414,6 +414,7 @@ h6 {
   padding: 50px 80px;
 }
 #hero .icon-box {
+  width: 100%;
   padding: 50px 30px;
   position: relative;
   overflow: hidden;
